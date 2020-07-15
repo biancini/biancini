@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ornamento](ornamento.jpg "ornamento")
+![ornamento](https://github.com/biancini/biancini/blob/master/ornamento.jpg "ornamento")
